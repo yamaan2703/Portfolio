@@ -29,6 +29,11 @@ const certificates = [
     name: 'certificado-discover-conectar',
     image:'/education/certificate/bradesco-3.webp',
   },
+  {
+    id: 7,
+    name: 'certificado-discover-conectar',
+    image:'/education/certificate/bradesco-3.webp',
+  },
 ]
 
 export default certificates
