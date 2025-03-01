@@ -29,6 +29,156 @@ const projects = [
       },
     ],
   },
+  {
+    id: 5,
+    img: "/images/Dashboard.webp",
+    title: "Little Star School",
+    type: "Web App",
+    github: "https://github.com/yamaan2703/ReactJS-Projects/tree/main/GYM%20Landing%20Page/gym-page",
+    web: "https://reacy-gym-page.netlify.app/",
+    description:
+      "This project is an implementation of a complete e-commerce website, built with Next.js, Tailwind CSS, and payment integration using Stripe. The goal is to create a modern, responsive, and user-friendly online shopping platform.",
+    tags: [
+      {
+        name: "React JS",
+        icon: "/skills/react.svg",
+        color: "#FFFFFF",
+        rgb: "255, 255, 255",
+      },
+      {
+        name: "TypeScript",
+        icon: "/skills/typescript.svg",
+        color: "#3178C6",
+        rgb: "49, 120, 198",
+      },
+      {
+        name: "TailwindCSS",
+        icon: "/skills/tailwindcss.svg",
+        color: "#38BDF8",
+        rgb: "56, 189, 248",
+      },
+    ],
+  },
+  {
+    id: 2,
+    img: "/images/bigTech.png",
+    title: "BigTech",
+    type: "Website",
+    github: "https://github.com/yamaan2703/ReactJS-Projects/tree/main/GYM%20Landing%20Page/gym-page",
+    web: "https://bigtech-next.netlify.app/?storefront=envato-elements",
+    description:
+      "This project is an implementation of a complete e-commerce website, built with Next.js, Tailwind CSS, and payment integration using Stripe. The goal is to create a modern, responsive, and user-friendly online shopping platform.",
+    tags: [
+      {
+        name: "React JS",
+        icon: "/skills/react.svg",
+        color: "#FFFFFF",
+        rgb: "255, 255, 255",
+      },
+      {
+        name: "TypeScript",
+        icon: "/skills/typescript.svg",
+        color: "#3178C6",
+        rgb: "49, 120, 198",
+      },
+      {
+        name: "TailwindCSS",
+        icon: "/skills/tailwindcss.svg",
+        color: "#38BDF8",
+        rgb: "56, 189, 248",
+      },
+    ],
+  },
+  {
+    id: 4,
+    img: "/images/saveMySeat.png",
+    title: "Save My Seat",
+    type: "Mobile App",
+    github: "https://github.com/yamaan2703/ReactJS-Projects/tree/main/GYM%20Landing%20Page/gym-page",
+    web: "https://reacy-gym-page.netlify.app/",
+    description:
+      "This project is an implementation of a complete e-commerce website, built with Next.js, Tailwind CSS, and payment integration using Stripe. The goal is to create a modern, responsive, and user-friendly online shopping platform.",
+    tags: [
+      {
+        name: "React JS",
+        icon: "/skills/react.svg",
+        color: "#FFFFFF",
+        rgb: "255, 255, 255",
+      },
+      {
+        name: "TypeScript",
+        icon: "/skills/typescript.svg",
+        color: "#3178C6",
+        rgb: "49, 120, 198",
+      },
+      {
+        name: "TailwindCSS",
+        icon: "/skills/tailwindcss.svg",
+        color: "#38BDF8",
+        rgb: "56, 189, 248",
+      },
+    ],
+  },
+  {
+    id: 3,
+    img: "/images/isophormic.png",
+    title: "Admin Dashboard",
+    type: "Website",
+    github: "https://github.com/yamaan2703/ReactJS-Projects/tree/main/GYM%20Landing%20Page/gym-page",
+    web: "https://reacy-gym-page.netlify.app/",
+    description:
+      "This project is an implementation of a complete e-commerce website, built with Next.js, Tailwind CSS, and payment integration using Stripe. The goal is to create a modern, responsive, and user-friendly online shopping platform.",
+    tags: [
+      {
+        name: "React JS",
+        icon: "/skills/react.svg",
+        color: "#FFFFFF",
+        rgb: "255, 255, 255",
+      },
+      {
+        name: "TypeScript",
+        icon: "/skills/typescript.svg",
+        color: "#3178C6",
+        rgb: "49, 120, 198",
+      },
+      {
+        name: "TailwindCSS",
+        icon: "/skills/tailwindcss.svg",
+        color: "#38BDF8",
+        rgb: "56, 189, 248",
+      },
+    ],
+  },
+  {
+    id: 6,
+    img: "/images/restaurantApp.jpg",
+    title: "GYM",
+    type: "Website",
+    github: "https://github.com/yamaan2703/ReactJS-Projects/tree/main/GYM%20Landing%20Page/gym-page",
+    web: "https://reacy-gym-page.netlify.app/",
+    description:
+      "This project is an implementation of a complete e-commerce website, built with Next.js, Tailwind CSS, and payment integration using Stripe. The goal is to create a modern, responsive, and user-friendly online shopping platform.",
+    tags: [
+      {
+        name: "React JS",
+        icon: "/skills/react.svg",
+        color: "#FFFFFF",
+        rgb: "255, 255, 255",
+      },
+      {
+        name: "TypeScript",
+        icon: "/skills/typescript.svg",
+        color: "#3178C6",
+        rgb: "49, 120, 198",
+      },
+      {
+        name: "TailwindCSS",
+        icon: "/skills/tailwindcss.svg",
+        color: "#38BDF8",
+        rgb: "56, 189, 248",
+      },
+    ],
+  },
 
 ];
 

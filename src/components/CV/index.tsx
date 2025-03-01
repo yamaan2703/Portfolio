@@ -17,13 +17,12 @@ export function CV() {
           <CVDescription>
               <div className="aspas">&ldquo;</div>
               <p>
-                Aqui você pode baixar meu currículo clicando no botão de download.
-              </p>
+              Here you can download my resume by clicking the download button.              </p>
               <div className="profile">
-                <img src="https://github.com/EvanderInacio.png" alt="Imagem de perfil" />
+                <img src="Yamaan_1.jpeg" alt="Imagem de perfil" />
                 <div className="name">
-                  <h3>Evander Inacio</h3>
-                  <span>Desenvolvedor Front end</span>
+                  <h3>Muhammad Yamaan</h3>
+                  <span>Software Developer</span>
                 </div>
               </div>
           </CVDescription>

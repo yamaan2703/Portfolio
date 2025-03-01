@@ -31,16 +31,16 @@ export default function Projects() {
   return (
     <>
       <Head>
-        <title>Projects | Evander Inácio </title>
-        <meta
+        <title>Projects | Muhammad Yamaan </title>
+        {/* <meta
           name="description"
           content="Adoro codificar usando ferramentas como React, NextJS, Tailwind, Styled Components e muito mais! Aqui estão alguns dos meus projetos favoritos."
-        />
-        <meta property="og:title" content="Projects | Evander Inácio" />
-        <meta
+        /> */}
+        {/* <meta property="og:title" content="Projects | Evander Inácio" /> */}
+        {/* <meta
           property="og:description"
           content="Adoro codificar usando ferramentas como React, NextJS, Tailwind, Styled Components e muito mais! Aqui estão alguns dos meus projetos favoritos."
-        />
+        /> */}
       </Head>
 
       <Header />
@@ -48,36 +48,19 @@ export default function Projects() {
       <ScrollTop />
       <T.Section>
         <T.Title>
-          <p>../projects</p>
-          Projetos
+          Projects
           <span>
             <HiOutlineDesktopComputer /> Projects
           </span>
         </T.Title>
         <T.Description>
-          Aqui você poderá ver alguns dos trabalhos que eu desenvolvi. Navegue à
-          vontade e explore os projetos para ver como foram criados, as
-          tecnologias utilizadas e as funcionalidades implementadas.
+        Here you can see some of the work I have developed. Feel free to browse and explore the projects to see how they were created, the technologies used, and the features implemented.
         </T.Description>
 
         <S.ProjectsContainer>
           <S.ProjectsContent>
-            <div className="search">
-              <p>Pesquise pelo nome do projeto</p>
-
-              <div className="input">
-                <input
-                  type="text"
-                  placeholder="Pesquisar..."
-                  value={query}
-                  onChange={handleChange}
-                />
-                <FaSearch />
-              </div>
-            </div>
-
             {!projectFilter.length && (
-              <h3 className="not-found">Projeto não encontrado 🙁</h3>
+              <h3 className="not-found">Project not found 🙁</h3>
             )}
 
             {projectFilter.map(project => {
@@ -134,13 +117,13 @@ export default function Projects() {
             })}
 
             <p className="github">
-              Ei, ei, ei... Tenho ainda mais no{' '}
+            Hey, hey, hey... I have even more on{' '}
               <a
                 href="https://github.com/EvanderInacio"
                 target="_blank"
                 rel="noreferrer"
               >
-                meu GitHub{' '}
+                my GitHub{' '}
               </a>
               !
             </p>

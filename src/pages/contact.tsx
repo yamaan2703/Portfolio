@@ -9,8 +9,8 @@ export default function Contacts() {
   return (
     <>
       <Head>
-        <title>Contact | Evander Inácio </title>
-        <meta
+        <title>Contact | Muhammad Yamaan </title>
+        {/* <meta
           name="description"
           content="Sinta-se à vontade para entrar em contato e vamos conversar sobre como podemos trabalhar juntos."
         />
@@ -18,7 +18,7 @@ export default function Contacts() {
         <meta
           property="og:description"
           content="Sinta-se à vontade para entrar em contato e vamos conversar sobre como podemos trabalhar juntos."
-        />
+        /> */}
       </Head>
 
       <Header />
