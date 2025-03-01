@@ -21,15 +21,15 @@ export default function Home() {
 
       <Header />
       <Section>
-        {/* <Links /> */}
-        {/* <ScrollTop /> */}
+        <Links />
+        <ScrollTop />
         <HomeHero />
         <About />
         <Skills />
         <Experience />
         {/* <Work /> */}
         <Projects />
-        <CardContact />
+        {/* <CardContact /> */}
       </Section>
       <Footer />
     </>

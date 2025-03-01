@@ -25,9 +25,9 @@ export function Contact() {
             <h4>
               <BsWhatsapp size={22} color="#00fffb" /> WhatsApp{' '}
             </h4>
-            <Link href="https://api.whatsapp.com/send?phone=5511995085916">
+            <Link href="https://api.whatsapp.com/send?phone=923350353731">
               <a target="_blank">
-                <span>+55 11 99508-5916</span>
+                <span>+92 335-035-3731</span>
               </a>
             </Link>
           </div>
@@ -37,9 +37,9 @@ export function Contact() {
               {' '}
               <TelegramLogo size={22} color="#00fffb" /> Email{' '}
             </h4>
-            <Link href="mailto:evander.20116@gmail.com">
+            <Link href="mailto:yamaan004@gmail.com">
               <a target="_blank">
-                <span>evander.20116@gmail.com</span>
+                <span>yamaan004@gmail.com</span>
               </a>
             </Link>
           </div>

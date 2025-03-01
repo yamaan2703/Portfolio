@@ -68,11 +68,10 @@ const cardSkills = [
   // },
   // {
   //   id: 11,
-  //   title: 'Chakra UI',
-  //   img: '/skills/chakra-ui.svg',
+  //   title: 'Material UI',
+  //   img: '/skills/material-ui.svg',
   //   color: '#51c8c5'
   // },
-
 ]
 
 export default cardSkills

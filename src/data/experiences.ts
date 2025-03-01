@@ -1,7 +1,7 @@
 const works = [
   {
     id: 1,
-    img: "/experience/work.svg",
+    img: "/experience/internee.png",
     title: "Internship",
     subTitle: "Front-end Developer",
     office: "Internee",
@@ -14,16 +14,16 @@ const works = [
       { name: "React JS", icon: "/skills/react.svg" },
       { name: "Next JS", icon: "/skills/next-js.svg" },
     ],
-    date: "Jan 2024 - March 2024",
+    date: "March 2024 - May 2024",
   },
   {
     id: 2,
-    img: "/experience/logo-ultronia.webp",
+    img: "/experience/getweys.png",
     title: "Associate Software Developer",
     subTitle: "Web & Mobile Applications Developer",
     office: "Getweys",
     description:
-      "At Getweys, I strengthened my frontend development skills with ReactJS and NextJS, gaining deeper insights into their core concepts. I also contributed to mobile app projects using React Native, further expanding my expertise in cross-platform development.",
+      "At Getweys, I honed my ReactJS and NextJS skills while deepening my frontend expertise. I also contributed to React Native projects, expanding my cross-platform development experience.",
     tags: [
       { name: "Html", icon: "/skills/html.svg" },
       { name: "Css", icon: "/skills/css.svg" },
@@ -33,7 +33,7 @@ const works = [
       { name: "Next JS", icon: "/skills/next-js.svg" },
       { name: "MaterialUI", icon: "/skills/material-ui.svg" },
     ],
-    date: "June  - Jul 2023",
+    date: "June 2024  - Present",
   },
 ];
 

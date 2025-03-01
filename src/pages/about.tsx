@@ -52,41 +52,30 @@ export default function About() {
 
               <div className="links">
                 <ul>
-                  <Link href={"https://github.com/EvanderInacio"}>
+                  <Link href={"https://github.com/yamaan2703"}>
                     <a target="_blank" aria-label="Link para o Github">
-                      <AiFillGithub size={25} /> @EvanderInacio
+                      <AiFillGithub size={25} /> @Muhammad Yamaan
                     </a>
                   </Link>
-                  <Link href={"https://www.linkedin.com/in/evander-inacio/"}>
+                  <Link href={"https://www.linkedin.com/in/muhammad-yamaan-1b32202a2/"}>
                     <a target="_blank" aria-label="Link para o Linkedin">
-                      <BsLinkedin size={25} /> @evander-inacio
+                      <BsLinkedin size={25} /> @Muhammad Yamaan
                     </a>
                   </Link>
                   <Link
                     href={"https://api.whatsapp.com/send?phone=5511995085916"}
                   >
                     <a target="_blank" aria-label="Link para o WhatsApp">
-                      <RiWhatsappFill size={25} /> +55 (11) 99508-5916
+                      <RiWhatsappFill size={25} /> +92 335-035-3731
                     </a>
                   </Link>
-                  <Link
-                    href={"https://www.discordapp.com/users/evander_inacio"}
-                  >
-                    <a
-                      className="dc"
-                      target="_blank"
-                      aria-label="Link para o Discord"
-                    >
-                      <FaDiscord size={25} /> @evander_inacio
-                    </a>
-                  </Link>
-                  <Link href={"mailto:evander.20116@gmail.com"}>
+                  <Link href={"mailto:yamaan004@gmail.com"}>
                     <a
                       className="email"
                       target="_blank"
                       aria-label="Link para o email"
                     >
-                      <GrMail size={25} /> @evander.20116@gmail.com
+                      <GrMail size={25} /> @yamaan004@gmail.com
                     </a>
                   </Link>
                 </ul>
@@ -107,14 +96,16 @@ export default function About() {
             </S.AboutImage>
             <S.AboutDescription>
               <p>
-              My name is Evander Inácio, I am a front-end React developer from Brazil, passionate about designing and coding. My specialty is creating interfaces and functionalities for web applications using React.js and Next.js.
+              I am Muhammad Yamaan Fahim, a passionate software developer with a strong command of frontend development. I have extensive experience in building web and mobile applications, specializing in HTML, CSS, JavaScript, TypeScript, ReactJS, and NextJS for web development, while leveraging React Native for mobile app development.
               </p>
               <p>
-              I started my journey at university with the initial goal of studying Systems Analysis and Development. I have always been interested in computers and curious about web page creation. So, I decided to combine these two passions and enrolled in college to explore the possibilities of the IT field.
+              I am also proficient in Firebase Authentication and Firebase Database, which I use to develop secure and scalable web & mobile applications. To craft modern and interactive user interfaces, I incorporate Material UI, Tailwind CSS, and other advanced frontend libraries. With a continuous learning mindset, I embrace new technologies and challenges to create innovative solutions that elevate every project I work on.
               </p>
               <p>
-              It was only in 2021, during the second-to-last semester of college, that I started taking programming more seriously. I made my first attempt at learning HTML and CSS, but I ended up taking a break after a few months due to a lack of free time.
+              I am also proficient in Firebase Authentication and Firebase Database, which I use to develop secure and scalable web & mobile applications. To craft modern and interactive user interfaces, I incorporate Material UI, Tailwind CSS, and other advanced frontend libraries. With a continuous learning mindset, I embrace new technologies and challenges to create innovative solutions that elevate every project I work on.
               </p>
+              <p>I am currently pursuing a BS in Computer Science (BSCS) at Federal Urdu University of Arts, Science & Technology (FUUAST). Alongside my studies, I actively explore new technologies and enhance my practical development skills.</p>
+              <p>I’m a lifelong learner passionate about exploring new ideas and technologies. To me, software development is not just coding but a way to create innovative solutions. My goal is to build modern, scalable, and user-centric applications that solve real-world problems because innovation drives growth.</p>
             </S.AboutDescription>
           </S.AboutContent>
         </S.AboutContainer>

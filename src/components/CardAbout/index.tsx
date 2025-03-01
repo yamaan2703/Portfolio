@@ -22,16 +22,7 @@ export function About() {
           <div className="aboutDescription">
             <h2>Let me introduce myself</h2>
             <p>
-              I'm Yamaan, a passionate Software Developer specializing in HTML,
-              CSS, JavaScript, TypeScript, ReactJS, and NextJS. I build dynamic,
-              high-performance web applications with seamless user experiences,
-              leveraging Bootstrap, Tailwind, and Material UI for sleek and
-              modern designs. With expertise in React Native, I develop robust
-              and scalable mobile applications. I also have hands-on experience
-              with Firebase Authentication and Database, ensuring secure and
-              efficient backend integration. Dedicated to staying ahead in the
-              ever-evolving tech world, I continuously refine my skills to
-              tackle new challenges and create innovative digital solutions. 🚀
+            I'm Yamaan, a passionate Software Developer skilled in HTML, CSS, JavaScript, TypeScript, ReactJS, NextJS, and React Native. I craft high-performance web and mobile apps with sleek designs using Tailwind, Bootstrap, and Material UI. Experienced in Firebase Authentication and Database, I ensure secure and efficient backend integration. Constantly evolving, I thrive on new challenges to build innovative digital solutions. 🚀
             </p>
 
             <strong>
