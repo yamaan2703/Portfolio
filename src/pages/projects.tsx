@@ -96,37 +96,12 @@ export default function Projects() {
                           })}
                         </div>
                       </div>
-                      <Link href={`/project/${project.url}`}>
-                        <a>
-                          <T.ButtonAlternatives>
-                            Ver projeto
-                            <ArrowRight
-                              style={{
-                                marginBottom: '-0.1rem'
-                              }}
-                              weight="bold"
-                              size={16}
-                            />
-                          </T.ButtonAlternatives>
-                        </a>
-                      </Link>
                     </div>
                   </S.ProjectsItem>
                 </>
               )
             })}
 
-            <p className="github">
-            Hey, hey, hey... I have even more on{' '}
-              <a
-                href="https://github.com/EvanderInacio"
-                target="_blank"
-                rel="noreferrer"
-              >
-                my GitHub{' '}
-              </a>
-              !
-            </p>
           </S.ProjectsContent>
         </S.ProjectsContainer>
       </T.Section>

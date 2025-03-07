@@ -10,7 +10,7 @@ import { BsFileText } from "react-icons/bs";
 
 export default function Resume() {
   const resumeData =
-    "https://www.canva.com/design/DAFTFxhLLPw/ddljelrvwHm5zBTlNywJMQ/edit?utm_content=DAFTFxhLLPw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton";
+    "https://www.canva.com/design/DAF_I6LWUlk/lSdvxMMcVxnpXCcM9eDsUg/edit?utm_content=DAF_I6LWUlk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton";
 
   const previewData = `${resumeData.substr(
     0,

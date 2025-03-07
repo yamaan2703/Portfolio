@@ -7,37 +7,7 @@ const projects = [
     github: "https://github.com/yamaan2703/ReactJS-Projects/tree/main/GYM%20Landing%20Page/gym-page",
     web: "https://reacy-gym-page.netlify.app/",
     description:
-      "This project is an implementation of a complete e-commerce website, built with Next.js, Tailwind CSS, and payment integration using Stripe. The goal is to create a modern, responsive, and user-friendly online shopping platform.",
-    tags: [
-      {
-        name: "React JS",
-        icon: "/skills/react.svg",
-        color: "#FFFFFF",
-        rgb: "255, 255, 255",
-      },
-      {
-        name: "TypeScript",
-        icon: "/skills/typescript.svg",
-        color: "#3178C6",
-        rgb: "49, 120, 198",
-      },
-      {
-        name: "TailwindCSS",
-        icon: "/skills/tailwindcss.svg",
-        color: "#38BDF8",
-        rgb: "56, 189, 248",
-      },
-    ],
-  },
-  {
-    id: 5,
-    img: "/images/Dashboard.webp",
-    title: "Little Star School",
-    type: "Web App",
-    github: "https://github.com/yamaan2703/ReactJS-Projects/tree/main/GYM%20Landing%20Page/gym-page",
-    web: "https://reacy-gym-page.netlify.app/",
-    description:
-      "This project is an implementation of a complete e-commerce website, built with Next.js, Tailwind CSS, and payment integration using Stripe. The goal is to create a modern, responsive, and user-friendly online shopping platform.",
+      "I built a modern gym website using React.js and Tailwind CSS, featuring smooth animations and interactive elements for a seamless experience. 🚀",
     tags: [
       {
         name: "React JS",
@@ -61,16 +31,52 @@ const projects = [
   },
   {
     id: 2,
-    img: "/images/bigTech.png",
+    img: "/images/Dashboard.webp",
+    title: "Little Star School",
+    type: "Web App",
+    github: "https://github.com/yamaan2703/ReactJS-Projects/tree/main/GYM%20Landing%20Page/gym-page",
+    web: "https://reacy-gym-page.netlify.app/",
+    description:
+      "I built a **School Admission Portal** with Next.js, Tailwind CSS, and Ant Design, managing students' records, fees, attendance, and teachers' salaries with seamless backend integration. 🚀 Let’s connect for a powerful school management solution! 🎓✨",
+    tags: [
+      {
+        name: "Next JS",
+        icon: "/skills/react.svg",
+        color: "#FFFFFF",
+        rgb: "255, 255, 255",
+      },
+      {
+        name: "Node JS",
+        icon: "/skills/nodejs.svg",
+        color: "#3178C6",
+        rgb: "49, 120, 198",
+      },
+      {
+        name: "TypeScript",
+        icon: "/skills/typescript.svg",
+        color: "#3178C6",
+        rgb: "49, 120, 198",
+      },
+      {
+        name: "TailwindCSS",
+        icon: "/skills/tailwindcss.svg",
+        color: "#38BDF8",
+        rgb: "56, 189, 248",
+      },
+    ],
+  },
+  {
+    id: 3,
+    img: "/images/bigTech.jpeg",
     title: "BigTech",
     type: "Website",
     github: "https://github.com/yamaan2703/ReactJS-Projects/tree/main/GYM%20Landing%20Page/gym-page",
     web: "https://bigtech-next.netlify.app/?storefront=envato-elements",
     description:
-      "This project is an implementation of a complete e-commerce website, built with Next.js, Tailwind CSS, and payment integration using Stripe. The goal is to create a modern, responsive, and user-friendly online shopping platform.",
+      "This website showcases **stunning UI animations** built with **Next.js** and **Tailwind CSS**, delivering a smooth and interactive experience. 🚀 Designed for performance and responsiveness, it highlights modern **UI motion effects** for an engaging user journey. ✨.",
     tags: [
       {
-        name: "React JS",
+        name: "Next JS",
         icon: "/skills/react.svg",
         color: "#FFFFFF",
         rgb: "255, 255, 255",
@@ -97,7 +103,7 @@ const projects = [
     github: "https://github.com/yamaan2703/ReactJS-Projects/tree/main/GYM%20Landing%20Page/gym-page",
     web: "https://reacy-gym-page.netlify.app/",
     description:
-      "This project is an implementation of a complete e-commerce website, built with Next.js, Tailwind CSS, and payment integration using Stripe. The goal is to create a modern, responsive, and user-friendly online shopping platform.",
+      "This **React Native app** simplifies **resort bookings**, allowing users to **reserve seats, rooms, and tables**, make **secure payments**, and manage reservations effortlessly with **Firebase integration**. 🚀",
     tags: [
       {
         name: "React JS",
@@ -120,17 +126,23 @@ const projects = [
     ],
   },
   {
-    id: 3,
+    id: 5,
     img: "/images/isophormic.png",
     title: "Admin Dashboard",
     type: "Website",
     github: "https://github.com/yamaan2703/ReactJS-Projects/tree/main/GYM%20Landing%20Page/gym-page",
     web: "https://reacy-gym-page.netlify.app/",
     description:
-      "This project is an implementation of a complete e-commerce website, built with Next.js, Tailwind CSS, and payment integration using Stripe. The goal is to create a modern, responsive, and user-friendly online shopping platform.",
+      "I have worked on numerous **admin dashboards**, handling various functionalities with **Firebase** and backend **APIs**. With expertise in **Next.js** and **React.js**, I have built and optimized dashboards for diverse use cases. 🚀",
     tags: [
       {
         name: "React JS",
+        icon: "/skills/react.svg",
+        color: "#FFFFFF",
+        rgb: "255, 255, 255",
+      },
+      {
+        name: "Next JS",
         icon: "/skills/react.svg",
         color: "#FFFFFF",
         rgb: "255, 255, 255",
@@ -152,12 +164,12 @@ const projects = [
   {
     id: 6,
     img: "/images/restaurantApp.jpg",
-    title: "GYM",
+    title: "Dine Save",
     type: "Website",
     github: "https://github.com/yamaan2703/ReactJS-Projects/tree/main/GYM%20Landing%20Page/gym-page",
     web: "https://reacy-gym-page.netlify.app/",
     description:
-      "This project is an implementation of a complete e-commerce website, built with Next.js, Tailwind CSS, and payment integration using Stripe. The goal is to create a modern, responsive, and user-friendly online shopping platform.",
+      "This is a **React Native-based restaurant booking app** featuring **multiple restaurants** where users can **browse, select, and place orders** seamlessly. 🍽️🚀",
     tags: [
       {
         name: "React JS",
