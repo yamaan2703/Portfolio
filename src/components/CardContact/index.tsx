@@ -18,7 +18,7 @@ export function CardContact() {
         </div>
         <CardContactContent>
           <div className="description">
-            <h2>Let's talk!</h2>
+            <h2>Let&apos;s talk!</h2>
             <p>
               If you have any questions or just want to say hello, feel free to
               reach out to me. I will do my best to get back to you!
