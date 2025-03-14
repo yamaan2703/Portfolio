@@ -4,7 +4,7 @@ const projects = [
     img: "/images/gym.jpeg",
     title: "GYM",
     type: "Website",
-    github: "https://github.com/yamaan2703/ReactJS-Projects/tree/main/GYM%20Landing%20Page/gym-page",
+    github: "https://github.com/yamaan2703",
     web: "https://reacy-gym-page.netlify.app/",
     description:
       "I built a modern gym website using React.js and Tailwind CSS, featuring smooth animations and interactive elements for a seamless experience. 🚀",
@@ -34,8 +34,8 @@ const projects = [
     img: "/images/Dashboard.webp",
     title: "Little Star School",
     type: "Web App",
-    github: "https://github.com/yamaan2703/ReactJS-Projects/tree/main/GYM%20Landing%20Page/gym-page",
-    web: "https://reacy-gym-page.netlify.app/",
+    github: "https://github.com/yamaan2703",
+    web: "https://github.com/yamaan2703",
     description:
       "I built a **School Admission Portal** with Next.js, Tailwind CSS, and Ant Design, managing students' records, fees, attendance, and teachers' salaries with seamless backend integration. 🚀 Let’s connect for a powerful school management solution! 🎓✨",
     tags: [
@@ -70,7 +70,7 @@ const projects = [
     img: "/images/bigTech.jpeg",
     title: "BigTech",
     type: "Website",
-    github: "https://github.com/yamaan2703/ReactJS-Projects/tree/main/GYM%20Landing%20Page/gym-page",
+    github: "https://github.com/yamaan2703",
     web: "https://bigtech-next.netlify.app/?storefront=envato-elements",
     description:
       "This website showcases **stunning UI animations** built with **Next.js** and **Tailwind CSS**, delivering a smooth and interactive experience. 🚀 Designed for performance and responsiveness, it highlights modern **UI motion effects** for an engaging user journey. ✨.",
@@ -100,8 +100,8 @@ const projects = [
     img: "/images/saveMySeat.png",
     title: "Save My Seat",
     type: "Mobile App",
-    github: "https://github.com/yamaan2703/ReactJS-Projects/tree/main/GYM%20Landing%20Page/gym-page",
-    web: "https://reacy-gym-page.netlify.app/",
+    github: "https://github.com/yamaan2703",
+    web: "https://github.com/yamaan2703",
     description:
       "This **React Native app** simplifies **resort bookings**, allowing users to **reserve seats, rooms, and tables**, make **secure payments**, and manage reservations effortlessly with **Firebase integration**. 🚀",
     tags: [
@@ -129,9 +129,9 @@ const projects = [
     id: 5,
     img: "/images/isophormic.png",
     title: "Admin Dashboard",
-    type: "Website",
-    github: "https://github.com/yamaan2703/ReactJS-Projects/tree/main/GYM%20Landing%20Page/gym-page",
-    web: "https://reacy-gym-page.netlify.app/",
+    type: "web App",
+    github: "https://github.com/yamaan2703",
+    web: "https://github.com/yamaan2703",
     description:
       "I have worked on numerous **admin dashboards**, handling various functionalities with **Firebase** and backend **APIs**. With expertise in **Next.js** and **React.js**, I have built and optimized dashboards for diverse use cases. 🚀",
     tags: [
@@ -165,9 +165,9 @@ const projects = [
     id: 6,
     img: "/images/restaurantApp.jpg",
     title: "Dine Save",
-    type: "Website",
-    github: "https://github.com/yamaan2703/ReactJS-Projects/tree/main/GYM%20Landing%20Page/gym-page",
-    web: "https://reacy-gym-page.netlify.app/",
+    type: "Mobile App",
+    github: "https://github.com/yamaan2703",
+    web: "https://github.com/yamaan2703",
     description:
       "This is a **React Native-based restaurant booking app** featuring **multiple restaurants** where users can **browse, select, and place orders** seamlessly. 🍽️🚀",
     tags: [
@@ -191,7 +191,6 @@ const projects = [
       },
     ],
   },
-
 ];
 
 export default projects;
